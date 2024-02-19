@@ -1,0 +1,9 @@
+#order{
+    height: 10px;
+    width: 30px;
+    flex: content;
+    align-items: center;
+    color: blueviolet;
+    background-color: black;
+    
+}
